@@ -1,4 +1,6 @@
 ::-webkit-scrollbar {
 
   width: 0;
+}h1 {
+  color: transparent;
 }
